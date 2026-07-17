@@ -1,0 +1,6 @@
+{
+  "name": "Google Sheets Project Dashboard",
+  "description": "แดชบอร์ดแสดงความคืบหน้า งบประมาณ และสถานะโครงการจาก Google Sheet แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
